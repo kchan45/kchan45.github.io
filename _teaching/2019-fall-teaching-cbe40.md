@@ -8,7 +8,7 @@ date: 2019-08-21
 location: "Berkeley, CA, USA"
 ---
 
-This is a description of my teaching experience as a Graduate Student Instructor (GSI) for CBE 40, an introductory chemical engineering course, at UC Berkeley.
+An overview of my teaching experience as a Graduate Student Instructor (GSI) for CBE 40, an introductory chemical engineering course, at UC Berkeley.
 
 Heading 1
 ======
