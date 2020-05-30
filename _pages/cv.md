@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemical & Biomolecular Engineering, Georgia Institute of Technology, 2018
+  * Minor in Scientific and Engineering Computing
+* Ph.D in Chemical & Biomolecular Engineering, University of California, Berkeley, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Academic Years 2016-2018: Tutor at the Center for Academic Success
+  * Georgia Institute of Technology, **Atlanta, GA**
+  * One-on-one tutoring for courses in Chemical Engineering, Chemistry, Math, and Computer Science
+  * Mentor for new tutors
+  * Planner and coordinator of some special events within organization
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Academic Years 2015-2018: Teaching Assistant for the School of Physics
+  * Georgia Institute of Technology, **Atlanta, GA**
+  * Co-managed lab environment for introductory physics course
+  * Mentor for new teaching assistants
+  * Redevelop/revise assignments for updated software
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Coding Languages
+------
+* Python
+* MATLAB
+* Julia
+* C
+* Java
 
 Publications
 ======
@@ -54,6 +57,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Outstanding GSI Award, 2019
+* Faculty Honors, Academic Year 2017-2018
+* Dean's List, Academic Years 2014-2017
