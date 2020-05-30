@@ -16,4 +16,4 @@ This site details my work as a graduate student at UC Berkeley in a quest to oba
 
 For more info
 ------
-More info about configuring a website like this from the academicpages template can be found in [the guide](https://academicpages.github.io/markdown/).
+More info about configuring a website like this from the academicpages template can be found on [their guide](https://academicpages.github.io/markdown/).
