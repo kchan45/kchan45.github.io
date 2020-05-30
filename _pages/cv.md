@@ -18,19 +18,20 @@ Education
 Work experience
 ======
 * Academic Years 2016-2018: Tutor at the Center for Academic Success
-  * Georgia Institute of Technology, **Atlanta, GA**
+  * *Georgia Institute of Technology, **Atlanta, GA***
   * One-on-one tutoring for courses in Chemical Engineering, Chemistry, Math, and Computer Science
   * Mentor for new tutors
   * Planner and coordinator of some special events within organization
 
 * Academic Years 2015-2018: Teaching Assistant for the School of Physics
-  * Georgia Institute of Technology, **Atlanta, GA**
+  * *Georgia Institute of Technology, **Atlanta, GA***
   * Co-managed lab environment for introductory physics course
   * Mentor for new teaching assistants
   * Redevelop/revise assignments for updated software
   
 Skills
 ======
+
 Coding Languages
 ------
 * Python
