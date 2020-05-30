@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+For a pdf version, click [here] (https://kchan45.github.io/files/cv.pdf). Otherwise, see below for an in-place version.
 
 Education
 ------
