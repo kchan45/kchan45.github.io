@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.mesbahlab.com'>Mesbah Lab</a> @ <a href='https://www.berkeley.edu'>UC Berkeley</a>. <a href='https://www.nasa.gov/ames'>NASA Ames Research Center</a>. Berkeley, CA, USA.
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -21,8 +21,11 @@ social: true  # includes social icons at the bottom of the page
 
 **website update in progress** 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/kchan45.github.io/publications/) automatically.
+Kimberly is from a suburb just south of Atlanta, Georgia. She graduated with a Bachelor of Science from the Georgia Institute of Technology with Highest Honors, majoring in Chemical & Biomolecular Engineering and minoring in Scientific and Engineering Computing (under the College of Computing). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At Georgia Tech, Kimberly worked as an undergraduate teaching assistant, a peer tutor, and an undergraduate researcher. As an undergraduate researcher, she worked in [Professor Martin Maldovan</a>'s](https://www.chbe.gatech.edu/people/martin-maldovan) group with [Dr. Juan Manuel Restrepo-Florez](https://scholar.google.com/citations?user=VLMa-k0AAAAJ&amp;hl=en), where I worked on modeling a pipe-in-pipe reactor using COMSOL for the production of syn gas.
+
+Kimberly is now attending the University of California, Berkeley to pursue a Doctor of Philosophy in Chemical & Biomolecular Engineering. She works with [Professor Ali Mesbah](https://www.mesbahlab.com) where her research focuses on predictive control, optimization, and machine learning for cold atmospheric plasma jets in biomedical applications. *Details found under Projects*
+
+In January 2023, Kimberly also started as a Pathways Intern at the National Aeronautics and Space Administration (NASA) Ames Research Center. At Ames, she works with [Dr. Jeremy Coupe](https://aviationsystems.arc.nasa.gov/about/bios/coupe_jeremy.shtml) on machine learning methods with graph representations for air traffic management. *Details found under Projects*
