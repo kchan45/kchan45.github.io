@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Hardware-software Co-design for Approximate Controllers
+description: my research project on optimizing neural network-based controllers on (specialized) hardware for portable plasma devices
+img: assets/img/plasma-jet.jpg
 importance: 1
 category: work
 ---
