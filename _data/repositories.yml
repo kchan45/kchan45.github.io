@@ -2,7 +2,7 @@ github_users:
   - kchan45
 
 github_repos:
-  - MPC_tutorials
-  - BO4Policy_Search_Plasma
-  - Plasma-Wafers
+  - kchan45/MPC_tutorials
+  - kchan45/BO4Policy_Search_Plasma
+  - kchan45/Plasma-Wafers
 

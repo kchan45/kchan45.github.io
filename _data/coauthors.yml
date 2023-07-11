@@ -3,8 +3,12 @@
     url: https://mesbahlab.com
 
 "Paulson":
-  - firstname: ["Joel", "J.", "J. A."]
+  - firstname: ["Joel", "J.", "J. A.", "Joel A."]
     url: https://paulsonlab.engineering.osu.edu/
+
+"Rodrigues":
+  - firstname: ["Diogo", "D."]
+    url: https://sigarra.up.pt/feup/en/FUNC_GERAL.FORMVIEW?p_codigo=700674
 
 "Makrygiorgios":
   - firstname: ["Georgios", "G."]
