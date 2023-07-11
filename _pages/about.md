@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 
 Kimberly is from a suburb just south of Atlanta, Georgia. She graduated with a Bachelor of Science from the Georgia Institute of Technology with Highest Honors, majoring in Chemical & Biomolecular Engineering and minoring in Scientific and Engineering Computing (under the College of Computing). 
 
-At Georgia Tech, Kimberly worked as an undergraduate teaching assistant, a peer tutor, and an undergraduate researcher. As an undergraduate researcher, she worked in [Professor Martin Maldovan's](https://www.chbe.gatech.edu/people/martin-maldovan) group with [Dr. Juan Manuel Restrepo-Florez](https://scholar.google.com/citations?user=VLMa-k0AAAAJ&amp;hl=en), where I worked on modeling a pipe-in-pipe reactor using COMSOL for the production of syn gas.
+At Georgia Tech, Kimberly worked as an undergraduate teaching assistant, a peer tutor, and an undergraduate researcher. As an undergraduate researcher, she worked in [Professor Martin Maldovan's](https://www.chbe.gatech.edu/people/martin-maldovan) group with [Dr. Juan Manuel Restrepo-Florez](https://scholar.google.com/citations?user=VLMa-k0AAAAJ&amp;hl=en), where she worked on modeling a pipe-in-pipe reactor using COMSOL for the production of syn gas.
 
 Kimberly is now attending the University of California, Berkeley to pursue a Doctor of Philosophy in Chemical & Biomolecular Engineering. She works with [Professor Ali Mesbah](https://www.mesbahlab.com) where her research focuses on predictive control, optimization, and machine learning for cold atmospheric plasma jets in biomedical applications. *Details found under Projects*
 
