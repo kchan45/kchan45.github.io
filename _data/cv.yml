@@ -146,28 +146,28 @@
       items:
         - Outstanding Graduate Student Instructor
 
-- title: Service/Outreach/Mentorship
-  type: time_table
-  contents:
-    - title: Research Mentor
-      institution: University of California, Berkeley
-      year: Aug. 2020-Present
-      description:
-        - Kelci Skinner, Undergraduate student in Chemical & Biomolecular Engineering (Aug. 2022-Present)
-        - Shawn Shin, Undergraduate student in Physics (Feb. 2021-Jun. 2021)
-        - Mehul Raheja, Undergraduate student in Electrical Engineering and Computer Science (May 2020-May 2021)
+# - title: Service/Outreach/Mentorship
+#   type: time_table
+#   contents:
+#     - title: Research Mentor
+#       institution: University of California, Berkeley
+#       year: Aug. 2020-Present
+#       description:
+#         - Kelci Skinner, Undergraduate student in Chemical & Biomolecular Engineering (Aug. 2022-Present)
+#         - Shawn Shin, Undergraduate student in Physics (Feb. 2021-Jun. 2021)
+#         - Mehul Raheja, Undergraduate student in Electrical Engineering and Computer Science (May 2020-May 2021)
     
-    - title: Member, Mentor Buddy
-      institution: Graduate Women in Engineering
-      year: Aug. 2019-Present
+#     - title: Member, Mentor Buddy
+#       institution: Graduate Women in Engineering
+#       year: Aug. 2019-Present
     
-    - title: Special Projects Webmaster
-      institution: Graduate Student Advisory Committee
-      year: Jun. 2020-May 2021
-      description:
-        - Headed special projects involving technical improvements to graduate-student-led programs in the Department of Chemical & Biomolecular Engineering
-        - Coordinated the development of a web-based solution to connect a running total of more than 30 undergraduate students with research projects within the department
-        - Created a communication network of 30-40 (and growing) students to foster inclusion and discussion with the Asian American and Pacific Islander community within the department
+#     - title: Special Projects Webmaster
+#       institution: Graduate Student Advisory Committee
+#       year: Jun. 2020-May 2021
+#       description:
+#         - Headed special projects involving technical improvements to graduate-student-led programs in the Department of Chemical & Biomolecular Engineering
+#         - Coordinated the development of a web-based solution to connect a running total of more than 30 undergraduate students with research projects within the department
+#         - Created a communication network of 30-40 (and growing) students to foster inclusion and discussion with the Asian American and Pacific Islander community within the department
 
 
 # - title: Presentations
