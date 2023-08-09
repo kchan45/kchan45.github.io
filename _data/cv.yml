@@ -119,6 +119,7 @@
         - Experiential Advanced Control Design I (ME 231A)
         - Deep Reinforcement Learning, Decision Making, and Control (CS 285)
     - title: SEC Coursework
+      items:
       - "Intro to Object-Oriented Programming (CS 1331)"
       - Computational Problem Solving (CX 4010)
       - Numerical Analysis I (CX 4640)
