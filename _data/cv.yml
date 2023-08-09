@@ -33,7 +33,7 @@
   contents:
     - title: Pathways Intern
       institution: "NASA Ames Research Center - Dr. William J. Coupe"
-      year: "Jan. 2023-Present"
+      year: "Jan. 2023 - Present"
       description:
         - title: Geometric deep learning methods for air traffic management
           contents:
@@ -42,7 +42,7 @@
 
     - title: Graduate Research Assistant
       institution: "University of California, Berkeley - Prof. Ali Mesbah"
-      year: Jan. 2020-Present
+      year: "Jan. 2020 - Present"
       description:
         - title: Conducted research in machine learning methods for optimal control and statistical forecasting for cold atmospheric plasmas in biomedical applications
           contents:
@@ -52,7 +52,7 @@
 
     - title: Undergraduate Research Assistant
       institution: "Georgia Institute of Technology - Prof. Martin Maldovan"
-      year: Jan. 2017-May 2018
+      year: "Jan. 2017 - May 2018"
       description:
         - Performed computational fluid dynamics simulations using COMSOL Multiphysics Software to observe transport properties of fluids in perovskite membrane reactors
         - Participated in discussion of theoretical applications of metamaterials and nanoscale thermal transport properties
@@ -62,7 +62,7 @@
   contents:
     - title: Graduate Student Instructor
       institution: "College of Chemistry, University of California, Berkeley - Prof. Jay D. Keasling"
-      year: Spring 2020, Spring 2021
+      year: "Spring 2020<br>Spring 2021"
       description:
         - Worked on a team of 3 to run a process controls and dynamics course (CBE 162) of 60-70 students
         - Obtained above average ratings on all aspects of student course evaluations by teaching weekly labs, holding weekly office hours, managing a discussion forum, developing interactive lab assignments, and grading exams
@@ -78,11 +78,11 @@
     
     - title: Peer Mentor/Tutor
       institution: Center for Academic Success, Georgia Institute of Technology
-      year: Aug. 2016-May 2018
+      year: "Aug. 2016 - May 2018"
     
     - title: Undergraduate Teaching Assistant
       institution: School of Physics, Georgia Institute of Technology
-      year: Aug. 2015-May 2018
+      year: "Aug. 2015 - May 2018"
 
 - title: Publications
   type: list
@@ -152,19 +152,19 @@
   contents:
     - title: Research Mentor
       institution: University of California, Berkeley
-      year: Aug. 2020-Present
+      year: "Aug. 2020 - Present"
       description:
-        - Kelci Skinner, Undergraduate student in Chemical and Biomolecular Engineering (Aug. 2022-Present)
-        - Shawn Shin, Undergraduate student in Physics (Feb. 2021-Jun. 2021)
-        - Mehul Raheja, Undergraduate student in Electrical Engineering and Computer Science (May 2020-May 2021)
+        - "Kelci Skinner, Undergraduate student in Chemical and Biomolecular Engineering (Aug. 2022 - Present)"
+        - "Shawn Shin, Undergraduate student in Physics (Feb. 2021 - Jun. 2021)"
+        - "Mehul Raheja, Undergraduate student in Electrical Engineering and Computer Science (May 2020 - May 2021)"
     
     - title: Member, Mentor Buddy
       institution: Graduate Women in Engineering
-      year: Aug. 2019-Present
+      year: "Aug. 2019 - Present"
     
     - title: Special Projects Webmaster
       institution: Graduate Student Advisory Committee
-      year: Jun. 2020-May 2021
+      year: "Jun. 2020 - May 2021"
       description:
         - Headed special projects involving technical improvements to graduate-student-led programs in the Department of Chemical and Biomolecular Engineering
         - Coordinated the development of a web-based solution to connect a running total of more than 30 undergraduate students with research projects within the department
@@ -173,7 +173,8 @@
 - title: Presentations
   type: list
   contents:
-    - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, 'Towards personalized cold plasma treatments using safe explorative Bayesian optimization,' <i>Accepted at the American Institute of Chemical Engineers (AIChE) 2023 Annual Meeting</i>, Orlando, Florida, USA, 2023."
+    - >
+    <b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, "Towards personalized cold plasma treatments using safe explorative Bayesian optimization," <i>Accepted at the American Institute of Chemical Engineers (AIChE) 2023 Annual Meeting</i>, Orlando, Florida, USA, 2023.
     - "<b>K. J. Chan</b><sup>*</sup>, J. A. Paulson, and A. Mesbah, 'End-to-end design and implementation of robust MPC on resource-limited hardware using multi-objective Bayesian optimization and deep learning,' American Institute of Chemical Engineers (AIChE) 2022 Annual Meeting, Phoenix, Arizona, USA, 2022."
     - "D. Rodrigues<sup>*</sup>, <b>K. J. Chan</b>, and A. Mesbah, 'Optimal control of dose delivery in atmospheric pressure plasma jets,' American Institute of Chemical Engineers (AIChE) 2021 Annual Meeting, Boston, Massachusetts, USA, 2021."
     - "<b>K. J. Chan</b><sup>*</sup>, A. D. Bonzanini, and A. Mesbah, 'Embedded deep learning-based robust model predictive control for fast-sampling atmospheric pressure plasma jets using field programmable gate arrays,' American Institute of Chemical Engineers (AIChE) 2020 Annual Meeting, San Francisco, California, USA (virtual), 2020."
