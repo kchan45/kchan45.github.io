@@ -16,7 +16,7 @@
       year: 2024 (expected)
       description:
         - Major in Chemical and Biomolecular Engineering
-        - Overall GPA 3.92/4.0
+        - "Overall GPA: 3.92/4.0"
         # - title: Dissertation
         #   contents:
         #     - Sub-description 1.
@@ -26,14 +26,14 @@
       description:
         - Major in Chemical and Biomolecular Engineering
         - Minor in Scientific and Engineering Computing
-        - "GPA: 3.79/4.0"
+        - "Overall GPA: 3.79/4.0"
 
 - title: Research Experience
   type: time_table
   contents:
     - title: Pathways Intern
-      institution: NASA Ames Research Center - Dr. William J. Coupe
-      year: Jan. 2023 - Present
+      institution: "NASA Ames Research Center - Dr. William J. Coupe"
+      year: Jan. 2023-Present
       description:
         - title: Geometric deep learning methods for air traffic management
           contents:
@@ -41,8 +41,8 @@
             - Created an interactive monitor to visualize data and model predictions
 
     - title: Graduate Research Assistant
-      institution: University of California, Berkeley - Prof. Ali Mesbah
-      year: Jan. 2020 - Present
+      institution: "University of California, Berkeley - Prof. Ali Mesbah"
+      year: Jan. 2020-Present
       description:
         - title: Conducted research in machine learning methods for optimal control and statistical forecasting for cold atmospheric plasmas in biomedical applications
           contents:
@@ -51,8 +51,8 @@
             - Continuing work on personalizing plasma treatments using transfer learning and active learning paradigms, resulting in Publications 5,6
 
     - title: Undergraduate Research Assistant
-      institution: Georgia Institute of Technology - Prof. Martin Maldovan
-      year: Jan. 2017 - May 2018
+      institution: "Georgia Institute of Technology - Prof. Martin Maldovan"
+      year: Jan. 2017-May 2018
       description:
         - Performed computational fluid dynamics simulations using COMSOL Multiphysics Software to observe transport properties of fluids in perovskite membrane reactors
         - Participated in discussion of theoretical applications of metamaterials and nanoscale thermal transport properties
@@ -61,7 +61,7 @@
   type: time_table
   contents:
     - title: Graduate Student Instructor
-      institution: College of Chemistry, University of California, Berkeley - Prof. Jay D. Keasling
+      institution: "College of Chemistry, University of California, Berkeley - Prof. Jay D. Keasling"
       year: Spring 2020, Spring 2021
       description:
         - Worked on a team of 3 to run a process controls and dynamics course (CBE 162) of 60-70 students
@@ -69,7 +69,7 @@
         - Attained Outstanding Graduate Student Instructor (2022)
 
     - title: Graduate Student Instructor
-      institution: College of Chemistry, University of California, Berkeley - Dr. Negar Beheshti Pour
+      institution: "College of Chemistry, University of California, Berkeley - Dr. Negar Beheshti Pour"
       year: Fall 2019
       description:
         - Worked with a team of 8 to run an introductory chemical engineering course (CBE 40) of 62 students
@@ -78,23 +78,23 @@
     
     - title: Peer Mentor/Tutor
       institution: Center for Academic Success, Georgia Institute of Technology
-      year: Aug. 2016 - May 2018
+      year: Aug. 2016-May 2018
     
     - title: Undergraduate Teaching Assistant
       institution: School of Physics, Georgia Institute of Technology
-      year: Aug. 2015 - May 2018
+      year: Aug. 2015-May 2018
 
-- title: Publications
-  type: list
-  contents:
-    - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, 'A multi-objective learning framework for optimal hardware-software co-design in MPC-on-a-chip systems: An application to cold atmospheric plasmas,' <i>To be submitted to IEEE Transactions on Control Systems Technology</i>."
-    - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, 'Safe explorative Bayesian optimization - Towards personalized treatments in plasma medicine,' <i>Accepted at the 62nd Conference on Decision and Control (CDC)</i>, 2023."
-    - "<b>K. J. Chan</b><sup>&#8224</sup>, G. Makrygiorgos<sup>&#8224</sup>, and A. Mesbah, 'Towards personalized plasma medicine via data-efficient adaptation of fast deep learning-based MPC policies,' In Proceedings of the American Control Conference (ACC), 2023."
-    - "Y. Bao, <b>K. J. Chan</b>, A. Mesbah, and J. Mohammadpour Velni, 'Learning-based adaptive-scenario-tree model predictive control with improved probabilistic safety using robust Bayesian neural networks,' International Journal of Robust and Nonlinear Control, 2023."
-    - "Y. Bao, <b>K. J. Chan</b>, A. Mesbah, and J. Mohammadpour Velni, 'Learning-based adaptive-scenario-tree model predictive control with probabilistic safety using Bayesian neural networks,' In Proceedings of the American Control Conference (ACC), 2022."
-    - "D. Rodrigues, <b>K. J. Chan</b>, and A. Mesbah, 'Data-driven adaptive optimal control under model uncertainty: An application to cold atmospheric plasmas,' IEEE Transactions on Control Systems Technology, 2022."
-    - "<b>K. J. Chan</b><sup>&#8224</sup>, J. A. Paulson<sup>&#8224</sup>, and A. Mesbah, 'Deep learning-based approximate nonlinear model predictive control with offset-free tracking for embedded applications,' In Proceedings of the American Control Conference (ACC), 2021."
-  - title: <sup>&#8224</sup> denotes equal contribution among authors
+# - title: Publications
+#   type: list
+#   contents:
+#     - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, 'A multi-objective learning framework for optimal hardware-software co-design in MPC-on-a-chip systems: An application to cold atmospheric plasmas,' <i>To be submitted to IEEE Transactions on Control Systems Technology</i>."
+#     - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, 'Safe explorative Bayesian optimization - Towards personalized treatments in plasma medicine,' <i>Accepted at the 62nd Conference on Decision and Control (CDC)</i>, 2023."
+#     - "<b>K. J. Chan</b><sup>&#8224</sup>, G. Makrygiorgos<sup>&#8224</sup>, and A. Mesbah, 'Towards personalized plasma medicine via data-efficient adaptation of fast deep learning-based MPC policies,' In Proceedings of the American Control Conference (ACC), 2023."
+#     - "Y. Bao, <b>K. J. Chan</b>, A. Mesbah, and J. Mohammadpour Velni, 'Learning-based adaptive-scenario-tree model predictive control with improved probabilistic safety using robust Bayesian neural networks,' International Journal of Robust and Nonlinear Control, 2023."
+#     - "Y. Bao, <b>K. J. Chan</b>, A. Mesbah, and J. Mohammadpour Velni, 'Learning-based adaptive-scenario-tree model predictive control with probabilistic safety using Bayesian neural networks,' In Proceedings of the American Control Conference (ACC), 2022."
+#     - "D. Rodrigues, <b>K. J. Chan</b>, and A. Mesbah, 'Data-driven adaptive optimal control under model uncertainty: An application to cold atmospheric plasmas,' IEEE Transactions on Control Systems Technology, 2022."
+#     - "<b>K. J. Chan</b><sup>&#8224</sup>, J. A. Paulson<sup>&#8224</sup>, and A. Mesbah, 'Deep learning-based approximate nonlinear model predictive control with offset-free tracking for embedded applications,' In Proceedings of the American Control Conference (ACC), 2021."
+#   - title: <sup>&#8224</sup> denotes equal contribution among authors
 
 # - title: Open Source Projects
 #   type: time_table
@@ -151,26 +151,26 @@
   contents:
     - title: Research Mentor
       institution: University of California, Berkeley
-      year: Aug. 2020 - Present
+      year: Aug. 2020-Present
       description:
-        - Kelci Skinner, Undergraduate student in Chemical & Biomolecular Engineering (Aug. 2022 - Present)
-        - Shawn Shin, Undergraduate student in Physics (Feb. 2021 - Jun. 2021)
-        - Mehul Raheja, Undergraduate student in Electrical Engineering and Computer Science (May 2020 - May 2021)
+        - Kelci Skinner, Undergraduate student in Chemical & Biomolecular Engineering (Aug. 2022-Present)
+        - Shawn Shin, Undergraduate student in Physics (Feb. 2021-Jun. 2021)
+        - Mehul Raheja, Undergraduate student in Electrical Engineering and Computer Science (May 2020-May 2021)
     
     - title: Member, Mentor Buddy
       institution: Graduate Women in Engineering
-      year: Aug. 2019 - Present
+      year: Aug. 2019-Present
     
     - title: Special Projects Webmaster
       institution: Graduate Student Advisory Committee
-      year: Jun. 2020 - May 2021
+      year: Jun. 2020-May 2021
       description:
         - Headed special projects involving technical improvements to graduate-student-led programs in the Department of Chemical & Biomolecular Engineering
         - Coordinated the development of a web-based solution to connect a running total of more than 30 undergraduate students with research projects within the department
         - Created a communication network of 30-40 (and growing) students to foster inclusion and discussion with the Asian American and Pacific Islander community within the department
 
 
-- title: Presentations
+# - title: Presentations
   type: list
   contents:
     - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, 'Towards personalized cold plasma treatments using safe explorative Bayesian optimization,' <i>Accepted at the American Institute of Chemical Engineers (AIChE) 2023 Annual Meeting</i>, Orlando, Florida, USA, 2023."
