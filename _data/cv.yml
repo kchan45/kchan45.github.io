@@ -33,7 +33,7 @@
   contents:
     - title: Pathways Intern
       institution: "NASA Ames Research Center - Dr. William J. Coupe"
-      year: Jan. 2023-Present
+      year: "Jan. 2023-Present"
       description:
         - title: Geometric deep learning methods for air traffic management
           contents:
@@ -119,7 +119,7 @@
         - Experiential Advanced Control Design I (ME 231A)
         - Deep Reinforcement Learning, Decision Making, and Control (CS 285)
     - title: SEC Coursework
-      - Intro to Object-Oriented Programming (CS 1331)
+      - "Intro to Object-Oriented Programming (CS 1331)"
       - Computational Problem Solving (CX 4010)
       - Numerical Analysis I (CX 4640)
       - Classical Mathematical Methods in Engineering (MATH 4581)
