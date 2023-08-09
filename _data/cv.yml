@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: Doctor of Philosophy (PhD)
-      institution: University of California, Berkeley, Berkeley, California
+      institution: University of California, Berkeley; Berkeley, California
       year: 2024 (expected)
       description:
         - Major in Chemical and Biomolecular Engineering
@@ -21,7 +21,7 @@
         #   contents:
         #     - Sub-description 1.
     - title: Bachelor of Science
-      institution: Georgia Institute of Technology, Atlanta, Georgia
+      institution: Georgia Institute of Technology; Atlanta, Georgia
       year: 2018
       description:
         - Major in Chemical and Biomolecular Engineering
@@ -48,7 +48,7 @@
           contents:
             - Co-developed a correction strategy for deep neural network-based controllers in complex, nonlinear systems on embedded hardware, resulting in Publication 1
             - Created an end-to-end framework for optimal hyperparameter search for embedded learning-based control using multi-objective Bayesian optimization, resulting Publication 7
-            - Continuing work on personalizing plasma treatments using transfer learning and active learning paradigms, resulting in Publications 5,6
+            - Continuing work on personalizing plasma treatments using transfer learning and active learning paradigms, resulting in Publications 5, 6
 
     - title: Undergraduate Research Assistant
       institution: "Georgia Institute of Technology - Prof. Martin Maldovan"
@@ -87,13 +87,13 @@
 - title: Publications
   type: list
   contents:
-    - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, 'A multi-objective learning framework for optimal hardware-software co-design in MPC-on-a-chip systems: An application to cold atmospheric plasmas,' <i>To be submitted to IEEE Transactions on Control Systems Technology</i>."
-    - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, 'Safe explorative Bayesian optimization - Towards personalized treatments in plasma medicine,' <i>Accepted at the 62nd Conference on Decision and Control (CDC)</i>, 2023."
-    - "<b>K. J. Chan</b><sup>&#8224</sup>, G. Makrygiorgos<sup>&#8224</sup>, and A. Mesbah, 'Towards personalized plasma medicine via data-efficient adaptation of fast deep learning-based MPC policies,' In Proceedings of the American Control Conference (ACC), 2023."
-    - "Y. Bao, <b>K. J. Chan</b>, A. Mesbah, and J. Mohammadpour Velni, 'Learning-based adaptive-scenario-tree model predictive control with improved probabilistic safety using robust Bayesian neural networks,' International Journal of Robust and Nonlinear Control, 2023."
-    - "Y. Bao, <b>K. J. Chan</b>, A. Mesbah, and J. Mohammadpour Velni, 'Learning-based adaptive-scenario-tree model predictive control with probabilistic safety using Bayesian neural networks,' In Proceedings of the American Control Conference (ACC), 2022."
-    - "D. Rodrigues, <b>K. J. Chan</b>, and A. Mesbah, 'Data-driven adaptive optimal control under model uncertainty: An application to cold atmospheric plasmas,' IEEE Transactions on Control Systems Technology, 2022."
-    - "<b>K. J. Chan</b><sup>&#8224</sup>, J. A. Paulson<sup>&#8224</sup>, and A. Mesbah, 'Deep learning-based approximate nonlinear model predictive control with offset-free tracking for embedded applications,' In Proceedings of the American Control Conference (ACC), 2021."
+    - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, \"A multi-objective learning framework for optimal hardware-software co-design in MPC-on-a-chip systems: An application to cold atmospheric plasmas,\" <i>To be submitted to IEEE Transactions on Control Systems Technology</i>."
+    - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, \"Safe explorative Bayesian optimization - Towards personalized treatments in plasma medicine,\" <i>Accepted at the 62nd Conference on Decision and Control (CDC)</i>, 2023."
+    - "<b>K. J. Chan</b><sup>&#8224</sup>, G. Makrygiorgos<sup>&#8224</sup>, and A. Mesbah, \"Towards personalized plasma medicine via data-efficient adaptation of fast deep learning-based MPC policies,\" In Proceedings of the American Control Conference (ACC), 2023."
+    - "Y. Bao, <b>K. J. Chan</b>, A. Mesbah, and J. Mohammadpour Velni, \"Learning-based adaptive-scenario-tree model predictive control with improved probabilistic safety using robust Bayesian neural networks,\" International Journal of Robust and Nonlinear Control, 2023."
+    - "Y. Bao, <b>K. J. Chan</b>, A. Mesbah, and J. Mohammadpour Velni, \"Learning-based adaptive-scenario-tree model predictive control with probabilistic safety using Bayesian neural networks,\" In Proceedings of the American Control Conference (ACC), 2022."
+    - "D. Rodrigues, <b>K. J. Chan</b>, and A. Mesbah, \"Data-driven adaptive optimal control under model uncertainty: An application to cold atmospheric plasmas,\" IEEE Transactions on Control Systems Technology, 2022."
+    - "<b>K. J. Chan</b><sup>&#8224</sup>, J. A. Paulson<sup>&#8224</sup>, and A. Mesbah, \"Deep learning-based approximate nonlinear model predictive control with offset-free tracking for embedded applications,\" In Proceedings of the American Control Conference (ACC), 2021."
     - "<sup>&#8224</sup> denotes equal contribution among authors"
 
 # - title: Open Source Projects
@@ -174,9 +174,10 @@
   type: list
   contents:
     - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, \"Towards personalized cold plasma treatments using safe explorative Bayesian optimization,\" <i>Accepted at the American Institute of Chemical Engineers (AIChE) 2023 Annual Meeting</i>, Orlando, Florida, USA, 2023."
-    - "<b>K. J. Chan</b><sup>*</sup>, J. A. Paulson, and A. Mesbah, 'End-to-end design and implementation of robust MPC on resource-limited hardware using multi-objective Bayesian optimization and deep learning,' American Institute of Chemical Engineers (AIChE) 2022 Annual Meeting, Phoenix, Arizona, USA, 2022."
-    - "D. Rodrigues<sup>*</sup>, <b>K. J. Chan</b>, and A. Mesbah, 'Optimal control of dose delivery in atmospheric pressure plasma jets,' American Institute of Chemical Engineers (AIChE) 2021 Annual Meeting, Boston, Massachusetts, USA, 2021."
-    - "<b>K. J. Chan</b><sup>*</sup>, A. D. Bonzanini, and A. Mesbah, 'Embedded deep learning-based robust model predictive control for fast-sampling atmospheric pressure plasma jets using field programmable gate arrays,' American Institute of Chemical Engineers (AIChE) 2020 Annual Meeting, San Francisco, California, USA (virtual), 2020."
+    - "<b>K. J. Chan</b><sup>*</sup>, J. A. Paulson, and A. Mesbah, \"End-to-end design and implementation of robust MPC on resource-limited hardware using multi-objective Bayesian optimization and deep learning,\" American Institute of Chemical Engineers (AIChE) 2022 Annual Meeting, Phoenix, Arizona, USA, 2022."
+    - "<b>K. J. Chan</b><sup>*</sup>, J. A. Paulson, and A. Mesbah, \"Automated tuning of generic embedded controllers using multi-objective Bayesian optimization,\" 2022 NorCal Control Conference, Santa Cruz, California, USA, 2022."
+    - "D. Rodrigues<sup>*</sup>, <b>K. J. Chan</b>, and A. Mesbah, \"Optimal control of dose delivery in atmospheric pressure plasma jets,\" American Institute of Chemical Engineers (AIChE) 2021 Annual Meeting, Boston, Massachusetts, USA, 2021."
+    - "<b>K. J. Chan</b><sup>*</sup>, A. D. Bonzanini, and A. Mesbah, \"Embedded deep learning-based robust model predictive control for fast-sampling atmospheric pressure plasma jets using field programmable gate arrays,\" American Institute of Chemical Engineers (AIChE) 2020 Annual Meeting, San Francisco, California, USA (virtual), 2020."
     - "</b><sup>*</sup> denotes presenting author"
 
 # - title: Other Interests
