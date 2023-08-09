@@ -40,22 +40,22 @@
             - Created a machine learning model pipeline for the Digital Information Platform following MLOps principles
             - Created an interactive monitor to visualize data and model predictions
 
-    - title: Graduate Research Assistant
-      institution: "University of California, Berkeley - Prof. Ali Mesbah"
-      year: Jan. 2020-Present
-      description:
-        - title: Conducted research in machine learning methods for optimal control and statistical forecasting for cold atmospheric plasmas in biomedical applications
-          contents:
-            - Co-developed a correction strategy for deep neural network-based controllers in complex, nonlinear systems on embedded hardware, resulting in Publication 1
-            - Created an end-to-end framework for optimal hyperparameter search for embedded learning-based control using multi-objective Bayesian optimization, resulting Publication 7
-            - Continuing work on personalizing plasma treatments using transfer learning and active learning paradigms, resulting in Publications 5,6
+    # - title: Graduate Research Assistant
+    #   institution: "University of California, Berkeley - Prof. Ali Mesbah"
+    #   year: Jan. 2020-Present
+    #   description:
+    #     - title: Conducted research in machine learning methods for optimal control and statistical forecasting for cold atmospheric plasmas in biomedical applications
+    #       contents:
+    #         - Co-developed a correction strategy for deep neural network-based controllers in complex, nonlinear systems on embedded hardware, resulting in Publication 1
+    #         - Created an end-to-end framework for optimal hyperparameter search for embedded learning-based control using multi-objective Bayesian optimization, resulting Publication 7
+    #         - Continuing work on personalizing plasma treatments using transfer learning and active learning paradigms, resulting in Publications 5,6
 
-    - title: Undergraduate Research Assistant
-      institution: "Georgia Institute of Technology - Prof. Martin Maldovan"
-      year: Jan. 2017-May 2018
-      description:
-        - Performed computational fluid dynamics simulations using COMSOL Multiphysics Software to observe transport properties of fluids in perovskite membrane reactors
-        - Participated in discussion of theoretical applications of metamaterials and nanoscale thermal transport properties
+    # - title: Undergraduate Research Assistant
+    #   institution: "Georgia Institute of Technology - Prof. Martin Maldovan"
+    #   year: Jan. 2017-May 2018
+    #   description:
+    #     - Performed computational fluid dynamics simulations using COMSOL Multiphysics Software to observe transport properties of fluids in perovskite membrane reactors
+    #     - Participated in discussion of theoretical applications of metamaterials and nanoscale thermal transport properties
 
 # - title: Teaching Experience
 #   type: time_table
