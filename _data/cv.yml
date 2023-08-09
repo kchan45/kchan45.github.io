@@ -103,28 +103,28 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Technical Strengths
-  type: nested_list
-  contents:
-    - title: Programming
-      items: 
-        - Python
-        - MATLAB
-        - LaTeX
-        - C
-        - Java
-    - title: Additional PhD Coursework
-      items:
-        - Introduction to Machine Learning (CS 289A)
-        - Experiential Advanced Control Design I (ME 231A)
-        - Deep Reinforcement Learning, Decision Making, and Control (CS 285)
-    - title: SEC Coursework
-      - Intro to Object-Oriented Programming (CS 1331)
-      - Computational Problem Solving (CX 4010)
-      - Numerical Analysis I (CX 4640)
-      - Classical Mathematical Methods in Engineering (MATH 4581)
-      - High Performance Computing (CX 4220)
-      - Linear Algebra (MATH 4305)
+# - title: Technical Strengths
+#   type: nested_list
+#   contents:
+#     - title: Programming
+#       items: 
+#         - Python
+#         - MATLAB
+#         - LaTeX
+#         - C
+#         - Java
+#     - title: Additional PhD Coursework
+#       items:
+#         - Introduction to Machine Learning (CS 289A)
+#         - Experiential Advanced Control Design I (ME 231A)
+#         - Deep Reinforcement Learning, Decision Making, and Control (CS 285)
+#     - title: SEC Coursework
+#       - Intro to Object-Oriented Programming (CS 1331)
+#       - Computational Problem Solving (CX 4010)
+#       - Numerical Analysis I (CX 4640)
+#       - Classical Mathematical Methods in Engineering (MATH 4581)
+#       - High Performance Computing (CX 4220)
+#       - Linear Algebra (MATH 4305)
 
 - title: Selected Honors and Awards
   type: time_table
