@@ -28,61 +28,61 @@
         - Minor in Scientific and Engineering Computing
         - "Overall GPA: 3.79/4.0"
 
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Pathways Intern
-      institution: "NASA Ames Research Center - Dr. William J. Coupe"
-      year: Jan. 2023-Present
-      description:
-        - title: Geometric deep learning methods for air traffic management
-          contents:
-            - Created a machine learning model pipeline for the Digital Information Platform following MLOps principles
-            - Created an interactive monitor to visualize data and model predictions
+# - title: Research Experience
+#   type: time_table
+#   contents:
+#     - title: Pathways Intern
+#       institution: "NASA Ames Research Center - Dr. William J. Coupe"
+#       year: Jan. 2023-Present
+#       description:
+#         - title: Geometric deep learning methods for air traffic management
+#           contents:
+#             - Created a machine learning model pipeline for the Digital Information Platform following MLOps principles
+#             - Created an interactive monitor to visualize data and model predictions
 
-    - title: Graduate Research Assistant
-      institution: "University of California, Berkeley - Prof. Ali Mesbah"
-      year: Jan. 2020-Present
-      description:
-        - title: Conducted research in machine learning methods for optimal control and statistical forecasting for cold atmospheric plasmas in biomedical applications
-          contents:
-            - Co-developed a correction strategy for deep neural network-based controllers in complex, nonlinear systems on embedded hardware, resulting in Publication 1
-            - Created an end-to-end framework for optimal hyperparameter search for embedded learning-based control using multi-objective Bayesian optimization, resulting Publication 7
-            - Continuing work on personalizing plasma treatments using transfer learning and active learning paradigms, resulting in Publications 5,6
+#     - title: Graduate Research Assistant
+#       institution: "University of California, Berkeley - Prof. Ali Mesbah"
+#       year: Jan. 2020-Present
+#       description:
+#         - title: Conducted research in machine learning methods for optimal control and statistical forecasting for cold atmospheric plasmas in biomedical applications
+#           contents:
+#             - Co-developed a correction strategy for deep neural network-based controllers in complex, nonlinear systems on embedded hardware, resulting in Publication 1
+#             - Created an end-to-end framework for optimal hyperparameter search for embedded learning-based control using multi-objective Bayesian optimization, resulting Publication 7
+#             - Continuing work on personalizing plasma treatments using transfer learning and active learning paradigms, resulting in Publications 5,6
 
-    - title: Undergraduate Research Assistant
-      institution: "Georgia Institute of Technology - Prof. Martin Maldovan"
-      year: Jan. 2017-May 2018
-      description:
-        - Performed computational fluid dynamics simulations using COMSOL Multiphysics Software to observe transport properties of fluids in perovskite membrane reactors
-        - Participated in discussion of theoretical applications of metamaterials and nanoscale thermal transport properties
+#     - title: Undergraduate Research Assistant
+#       institution: "Georgia Institute of Technology - Prof. Martin Maldovan"
+#       year: Jan. 2017-May 2018
+#       description:
+#         - Performed computational fluid dynamics simulations using COMSOL Multiphysics Software to observe transport properties of fluids in perovskite membrane reactors
+#         - Participated in discussion of theoretical applications of metamaterials and nanoscale thermal transport properties
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Graduate Student Instructor
-      institution: "College of Chemistry, University of California, Berkeley - Prof. Jay D. Keasling"
-      year: Spring 2020, Spring 2021
-      description:
-        - Worked on a team of 3 to run a process controls and dynamics course (CBE 162) of 60-70 students
-        - Obtained above average ratings on all aspects of student course evaluations by teaching weekly labs, holding weekly office hours, managing a discussion forum, developing interactive lab assignments, and grading exams
-        - Attained Outstanding Graduate Student Instructor (2022)
+# - title: Teaching Experience
+#   type: time_table
+#   contents:
+#     - title: Graduate Student Instructor
+#       institution: "College of Chemistry, University of California, Berkeley - Prof. Jay D. Keasling"
+#       year: Spring 2020, Spring 2021
+#       description:
+#         - Worked on a team of 3 to run a process controls and dynamics course (CBE 162) of 60-70 students
+#         - Obtained above average ratings on all aspects of student course evaluations by teaching weekly labs, holding weekly office hours, managing a discussion forum, developing interactive lab assignments, and grading exams
+#         - Attained Outstanding Graduate Student Instructor (2022)
 
-    - title: Graduate Student Instructor
-      institution: "College of Chemistry, University of California, Berkeley - Dr. Negar Beheshti Pour"
-      year: Fall 2019
-      description:
-        - Worked with a team of 8 to run an introductory chemical engineering course (CBE 40) of 62 students
-        - Obtained above average ratings on all aspects of student course evaluations holding weekly office hours, managing a discussion forum, and developing and grading assignments and assessments
-        - Attained Outstanding Graduate Student Instructor (2019)
+#     - title: Graduate Student Instructor
+#       institution: "College of Chemistry, University of California, Berkeley - Dr. Negar Beheshti Pour"
+#       year: Fall 2019
+#       description:
+#         - Worked with a team of 8 to run an introductory chemical engineering course (CBE 40) of 62 students
+#         - Obtained above average ratings on all aspects of student course evaluations holding weekly office hours, managing a discussion forum, and developing and grading assignments and assessments
+#         - Attained Outstanding Graduate Student Instructor (2019)
     
-    - title: Peer Mentor/Tutor
-      institution: Center for Academic Success, Georgia Institute of Technology
-      year: Aug. 2016-May 2018
+#     - title: Peer Mentor/Tutor
+#       institution: Center for Academic Success, Georgia Institute of Technology
+#       year: Aug. 2016-May 2018
     
-    - title: Undergraduate Teaching Assistant
-      institution: School of Physics, Georgia Institute of Technology
-      year: Aug. 2015-May 2018
+#     - title: Undergraduate Teaching Assistant
+#       institution: School of Physics, Georgia Institute of Technology
+#       year: Aug. 2015-May 2018
 
 # - title: Publications
 #   type: list
