@@ -94,7 +94,7 @@
     - "Y. Bao, <b>K. J. Chan</b>, A. Mesbah, and J. Mohammadpour Velni, 'Learning-based adaptive-scenario-tree model predictive control with probabilistic safety using Bayesian neural networks,' In Proceedings of the American Control Conference (ACC), 2022."
     - "D. Rodrigues, <b>K. J. Chan</b>, and A. Mesbah, 'Data-driven adaptive optimal control under model uncertainty: An application to cold atmospheric plasmas,' IEEE Transactions on Control Systems Technology, 2022."
     - "<b>K. J. Chan</b><sup>&#8224</sup>, J. A. Paulson<sup>&#8224</sup>, and A. Mesbah, 'Deep learning-based approximate nonlinear model predictive control with offset-free tracking for embedded applications,' In Proceedings of the American Control Conference (ACC), 2021."
-  # - title: "<sup>&#8224</sup> denotes equal contribution among authors"
+  - "<sup>&#8224</sup> denotes equal contribution among authors"
 
 # - title: Open Source Projects
 #   type: time_table
@@ -170,15 +170,14 @@
         - Coordinated the development of a web-based solution to connect a running total of more than 30 undergraduate students with research projects within the department
         - Created a communication network of 30-40 (and growing) students to foster inclusion and discussion with the Asian American and Pacific Islander community within the department
 
-
-# - title: Presentations
-  # type: list
-  # contents:
-  #   - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, 'Towards personalized cold plasma treatments using safe explorative Bayesian optimization,' <i>Accepted at the American Institute of Chemical Engineers (AIChE) 2023 Annual Meeting</i>, Orlando, Florida, USA, 2023."
-  #   - "<b>K. J. Chan</b><sup>*</sup>, J. A. Paulson, and A. Mesbah, 'End-to-end design and implementation of robust MPC on resource-limited hardware using multi-objective Bayesian optimization and deep learning,' American Institute of Chemical Engineers (AIChE) 2022 Annual Meeting, Phoenix, Arizona, USA, 2022."
-  #   - "D. Rodrigues<sup>*</sup>, <b>K. J. Chan</b>, and A. Mesbah, 'Optimal control of dose delivery in atmospheric pressure plasma jets,' American Institute of Chemical Engineers (AIChE) 2021 Annual Meeting, Boston, Massachusetts, USA, 2021."
-  #   - "<b>K. J. Chan</b><sup>*</sup>, A. D. Bonzanini, and A. Mesbah, 'Embedded deep learning-based robust model predictive control for fast-sampling atmospheric pressure plasma jets using field programmable gate arrays,' American Institute of Chemical Engineers (AIChE) 2020 Annual Meeting, San Francisco, California, USA (virtual), 2020."
-  #   - title: </b><sup>*</sup> denotes presenting author
+- title: Presentations
+  type: list
+  contents:
+    - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, 'Towards personalized cold plasma treatments using safe explorative Bayesian optimization,' <i>Accepted at the American Institute of Chemical Engineers (AIChE) 2023 Annual Meeting</i>, Orlando, Florida, USA, 2023."
+    - "<b>K. J. Chan</b><sup>*</sup>, J. A. Paulson, and A. Mesbah, 'End-to-end design and implementation of robust MPC on resource-limited hardware using multi-objective Bayesian optimization and deep learning,' American Institute of Chemical Engineers (AIChE) 2022 Annual Meeting, Phoenix, Arizona, USA, 2022."
+    - "D. Rodrigues<sup>*</sup>, <b>K. J. Chan</b>, and A. Mesbah, 'Optimal control of dose delivery in atmospheric pressure plasma jets,' American Institute of Chemical Engineers (AIChE) 2021 Annual Meeting, Boston, Massachusetts, USA, 2021."
+    - "<b>K. J. Chan</b><sup>*</sup>, A. D. Bonzanini, and A. Mesbah, 'Embedded deep learning-based robust model predictive control for fast-sampling atmospheric pressure plasma jets using field programmable gate arrays,' American Institute of Chemical Engineers (AIChE) 2020 Annual Meeting, San Francisco, California, USA (virtual), 2020."
+    - "</b><sup>*</sup> denotes presenting author"
 
 # - title: Other Interests
 #   type: list
