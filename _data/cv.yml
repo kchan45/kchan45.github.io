@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Kimberly J. Chan
-    - name: Date of Birth
-      value: 1st September 
+    # - name: Date of Birth
+    #   value: 1st September 
     - name: Languages
       value: English
 
@@ -13,10 +13,10 @@
   contents:
     - title: Doctor of Philosophy (PhD)
       institution: University of California, Berkeley; Berkeley, California
-      year: 2024 (expected)
+      year: May 2024 (expected)
       description:
         - Major in Chemical and Biomolecular Engineering
-        - "Overall GPA: 3.92/4.0"
+        - "Overall GPA: 3.93/4.0"
         # - title: Dissertation
         #   contents:
         #     - Sub-description 1.
@@ -46,9 +46,9 @@
       description:
         - title: Conducted research in machine learning methods for optimal control and statistical forecasting for cold atmospheric plasmas in biomedical applications
           contents:
-            - Co-developed a correction strategy for deep neural network-based controllers in complex, nonlinear systems on embedded hardware, resulting in Publication 1
-            - Created an end-to-end framework for optimal hyperparameter search for embedded learning-based control using multi-objective Bayesian optimization, resulting Publication 7
-            - Continuing work on personalizing plasma treatments using transfer learning and active learning paradigms, resulting in Publications 5, 6
+            - Co-developed a correction strategy for deep neural network-based controllers in complex, nonlinear systems on embedded hardware
+            - Created an end-to-end framework for optimal hyperparameter search for embedded learning-based control using multi-objective Bayesian optimization
+            - Continuing work on personalizing plasma treatments using transfer learning and active learning paradigms
 
     - title: Undergraduate Research Assistant
       institution: "Georgia Institute of Technology - Prof. Martin Maldovan"
@@ -87,7 +87,7 @@
 - title: Publications
   type: list
   contents:
-    - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, \"A multi-objective learning framework for optimal hardware-software co-design in MPC-on-a-chip systems: An application to cold atmospheric plasmas,\" <i>To be submitted to IEEE Transactions on Control Systems Technology</i>."
+    - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, \"A practical multi-objective learning framework for optimal hardware-software co-design of control-on-a-chip systems,\" <i>Submitted to IEEE Transactions on Control Systems Technology</i>."
     - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, \"Safe explorative Bayesian optimization - Towards personalized treatments in plasma medicine,\" <i>Accepted at the 62nd Conference on Decision and Control (CDC)</i>, 2023."
     - "<b>K. J. Chan</b><sup>&#8224</sup>, G. Makrygiorgos<sup>&#8224</sup>, and A. Mesbah, \"Towards personalized plasma medicine via data-efficient adaptation of fast deep learning-based MPC policies,\" In Proceedings of the American Control Conference (ACC), 2023."
     - "Y. Bao, <b>K. J. Chan</b>, A. Mesbah, and J. Mohammadpour Velni, \"Learning-based adaptive-scenario-tree model predictive control with improved probabilistic safety using robust Bayesian neural networks,\" International Journal of Robust and Nonlinear Control, 2023."
@@ -96,19 +96,17 @@
     - "<b>K. J. Chan</b><sup>&#8224</sup>, J. A. Paulson<sup>&#8224</sup>, and A. Mesbah, \"Deep learning-based approximate nonlinear model predictive control with offset-free tracking for embedded applications,\" In Proceedings of the American Control Conference (ACC), 2021."
     - "<sup>&#8224</sup> denotes equal contribution among authors"
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: see "repositories" tab
 
 - title: Technical Strengths
   type: nested_list
   contents:
     - title: Programming
       items: 
-        - Python
+        - Python (NumPy, Matplotlib, Pandas, PyTorch, BoTorch, Plotly/Dash, Tensorflow, Seaborn, FastAPI)
         - MATLAB
         - LaTeX
         - C
@@ -132,6 +130,7 @@
   contents:
     - year: 2023
       items: 
+        - Conference on Decision and Control (CDC) Student Travel Grant
         - American Control Conference (ACC) Student Travel Grant
     - year: 2022
       items: 
@@ -150,6 +149,20 @@
 - title: Service/Outreach/Mentorship
   type: time_table
   contents:
+    - title: Peer Reviewer
+      institution: University of California, Berkeley
+      year: "Various, Ongoing"
+      description:
+        - American Control Conference, 2023, 2024
+        - Conference on Decision and Control, 2023
+        - Learning for Dynamics and Control, 2024
+    
+    - title: Faculty Search Committee Graduate Student Member
+      institution: Department of Chemical and Biomolecular Engineering (UCB)
+      year: 2023, 2024
+      description:
+        - Attended research seminars of faculty candidates, engaged in conversations with faculty candidates outside of research, evaluated and wrote confidential reviews of faculty candidates
+
     - title: Research Mentor
       institution: University of California, Berkeley
       year: "Aug. 2020 - Present"
@@ -158,9 +171,13 @@
         - "Shawn Shin, Undergraduate student in Physics (Feb. 2021 - Jun. 2021)"
         - "Mehul Raheja, Undergraduate student in Electrical Engineering and Computer Science (May 2020 - May 2021)"
     
+    - title: Food Pantry Volunteer
+      institution: UC Berkeley Basic Needs Center
+      year: 2022
+    
     - title: Member, Mentor Buddy
       institution: Graduate Women in Engineering
-      year: "Aug. 2019 - Present"
+      year: "Aug. 2019 - 2022"
     
     - title: Special Projects Webmaster
       institution: Graduate Student Advisory Committee
@@ -173,14 +190,14 @@
 - title: Presentations
   type: list
   contents:
-    - "<b>K. J. Chan</b>, J. A. Paulson, and A. Mesbah, \"Towards personalized cold plasma treatments using safe explorative Bayesian optimization,\" <i>Accepted at the American Institute of Chemical Engineers (AIChE) 2023 Annual Meeting</i>, Orlando, Florida, USA, 2023."
+    - "<b>K. J. Chan</b>, J. A. Paulson<sup>*</sup>, and A. Mesbah, \"Towards personalized cold plasma treatments using safe explorative Bayesian optimization,\" <i>American Institute of Chemical Engineers (AIChE) 2023 Annual Meeting</i>, Orlando, Florida, USA, 2023."
     - "<b>K. J. Chan</b><sup>*</sup>, J. A. Paulson, and A. Mesbah, \"End-to-end design and implementation of robust MPC on resource-limited hardware using multi-objective Bayesian optimization and deep learning,\" American Institute of Chemical Engineers (AIChE) 2022 Annual Meeting, Phoenix, Arizona, USA, 2022."
     - "<b>K. J. Chan</b><sup>*</sup>, J. A. Paulson, and A. Mesbah, \"Automated tuning of generic embedded controllers using multi-objective Bayesian optimization,\" 2022 NorCal Control Conference, Santa Cruz, California, USA, 2022."
     - "D. Rodrigues<sup>*</sup>, <b>K. J. Chan</b>, and A. Mesbah, \"Optimal control of dose delivery in atmospheric pressure plasma jets,\" American Institute of Chemical Engineers (AIChE) 2021 Annual Meeting, Boston, Massachusetts, USA, 2021."
     - "<b>K. J. Chan</b><sup>*</sup>, A. D. Bonzanini, and A. Mesbah, \"Embedded deep learning-based robust model predictive control for fast-sampling atmospheric pressure plasma jets using field programmable gate arrays,\" American Institute of Chemical Engineers (AIChE) 2020 Annual Meeting, San Francisco, California, USA (virtual), 2020."
-    - "</b><sup>*</sup> denotes presenting author"
+    - "<sup>*</sup> denotes presenting author"
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Mechanical Keyboards, Cooking, Traveling
